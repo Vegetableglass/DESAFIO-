@@ -18,7 +18,7 @@ Exemplo de Funcionalidade:
 O usuário deve poder instanciar a classe Calculadora e usar seus métodos para realizar operações.
 Após realizar algumas operações, o usuário pode chamar o método mostrar_historico() para ver o histórico completo.
 
-Bônus (opcional):  
+Bônuss (opcional):  
 Adicione um método chamado limpar_historico() que limpa o histórico de operações.
 <<<
 
